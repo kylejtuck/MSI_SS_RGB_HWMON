@@ -1,0 +1,46 @@
+GPU Memory|Clock: 7915.974609375
+CPU Core #1|Clock: 4187.0791015625
+Bus Speed|Clock: 99.6923599243164
+CPU Core #2|Clock: 4486.15625
+CPU Core #6|Load: 0.78125
+GPU Frame Buffer|Load: 89.0
+Used Space|Load: 34.34727478027344
+GPU Memory Total|SmallData: 8192.0
+GPU Video Engine|Load: 0.0
+CPU Core #4|Temperature: 64.0
+CPU Core #1|Load: 0.0
+CPU Core #5|Temperature: 64.0
+CPU Package|Power: 8.862000465393066
+CPU Core #3|Clock: 4187.0791015625
+CPU Total|Load: 1.6947746276855469
+CPU Core #4|Clock: 4187.0791015625
+CPU Core #1|Temperature: 63.0
+GPU Bus Interface|Load: 0.0
+Used Memory|Data: 5.45794677734375
+Available Memory|Data: 10.36648178100586
+CPU Core #4|Load: 0.0
+CPU Core #6|Temperature: 63.0
+CPU Core #3|Load: 0.7936477661132812
+CPU Package|Temperature: 79.0
+CPU Graphics|Power: 0.019316408783197403
+GPU Shader|Clock: 0.0
+CPU DRAM|Power: 0.8089589476585388
+CPU Core #2|Load: 8.59375
+GPU PCIE Tx|Throughput: 3.90625
+Memory|Load: 34.490638732910156
+GPU Memory Free|SmallData: 2561.25
+GPU Power|Power: 114.81000518798828
+GPU Memory|Load: 68.7347412109375
+GPU Core|Temperature: 71.0
+GPU Core|Clock: 1185.0
+GPU Core|Load: 100.0
+CPU Core #5|Load: 0.0
+Temperature|Temperature: 33.0
+Used Space|Load: 0.01938629150390625
+CPU Core #5|Clock: 4486.15625
+CPU Cores|Power: 5.674793243408203
+CPU Core #2|Temperature: 79.0
+CPU Core #6|Clock: 4486.15625
+CPU Core #3|Temperature: 63.0
+GPU Memory Used|SmallData: 5630.75
+GPU PCIE Rx|Throughput: 10.7421875
