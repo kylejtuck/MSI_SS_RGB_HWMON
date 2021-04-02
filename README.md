@@ -5,9 +5,7 @@ display hardware sensor details.
 Requirements:
  OpenHardware Monitor (running)
  Python
- - pip install urllib3
- - pip install requests
- - pip install WMI
+ - pip install requests wmi Pillow pystray
 
 sensor_examples.txt contains sample sensor names and values.
 
